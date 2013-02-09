@@ -1,2 +1,3 @@
-Type  : Blog
-Title : Java
+Type       : Blog
+Title      : Java
+Navigation : ru /blog/ru
