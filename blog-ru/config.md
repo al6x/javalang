@@ -2,5 +2,5 @@
 
 - Application : Blog
 - Title       : Java
-- Navigation  : ru, /blog-ru/show
+- Navigation  : en, /blog/show
 - Use directories

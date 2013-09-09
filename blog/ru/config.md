@@ -1,2 +1,0 @@
-Type  : Blog
-Title : Java
