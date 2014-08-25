@@ -2,5 +2,5 @@
 
 - Application : Blog
 - Title       : Java
-- Navigation  : en, /blog/show
-- Use directories
+- Navigation  : en, /blog
+- Google ID   : UA-54125691-3
