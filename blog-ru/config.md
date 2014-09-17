@@ -1,5 +1,3 @@
-# Attributes
-
 - Application : Blog
 - Title       : Java
 - Navigation  : en, /blog
