@@ -41,5 +41,5 @@ Roguelike, [video](http://www.youtube.com/watch?v=pcQN5mrnUlM),
 
 ![Pixel Dungeon](open-source-games/pixel-dungeon.webp)
 
-- Games, Clojure, GWT
-- 2014/9/17
+- Tags : Games, Clojure, GWT
+- Date : 2014/9/17

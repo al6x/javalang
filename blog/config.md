@@ -1,5 +1,4 @@
-- Application : Blog
-- Title       : Java
-- Navigation  : ru, /blog-ru
-- Google ID   : UA-54125691-3
+- Type      : Blog
+- Title     : Java
+- Google ID : UA-54125691-3
 - Mount as root

@@ -1,4 +1,4 @@
-- Application : Blog
-- Title       : Java
-- Navigation  : en, /blog
-- Google ID   : UA-54125691-3
+- Type       : Blog
+- Title      : Java
+- Navigation : en, /blog
+- Google ID  : UA-54125691-3
