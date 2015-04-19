@@ -1,4 +1,6 @@
 - Type      : Blog
+- Logo      : /java-logo.svg
 - Title     : Java
 - Google ID : UA-54125691-3
+- head      : <script>alert('hi')</script>
 - Mount as root
